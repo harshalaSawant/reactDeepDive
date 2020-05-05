@@ -20,12 +20,3 @@
 .bold{
     font-weight: 900;
 }
-
-button {
-    background-color: green;
-  color: white;
-  border: 1px solid blue;
-  font: inherit;
-  padding: 8px;
-  cursor: pointer;
-}
